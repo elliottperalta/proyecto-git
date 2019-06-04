@@ -6,7 +6,8 @@ import "fmt"
 /*
 Comentarios multilineas
 */
-func main(){
+func main() {
 	fmt.Println("Hola desde Git")
+	fmt.Println("Hola por segunda vez")
 
 }
